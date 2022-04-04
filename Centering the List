@@ -1,0 +1,21 @@
+Hey There,I'M Talha,your Random Twitter Follower.
+You Posted a problem on twitter few mins ago.
+
+
+All you have to do is to Create a new div around your whole code. 
+
+<div class="main_div">
+// your whole code inside this div
+</div>
+
+
+After this,name this new div with a class "main_div".
+
+Here is the css of new div
+.main_div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+I hope its work.
